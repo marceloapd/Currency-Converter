@@ -2,7 +2,8 @@
 
 Desenvolvimento de uma calculadora para conversão de moedas para avaliação
 
-![image](https://user-images.githubusercontent.com/71731452/129795654-f9ff0370-00ef-44cf-b4da-d4535e7d92ff.png)
+![GIF Currency Converter](https://user-images.githubusercontent.com/71731452/129819923-5418a9f1-60f7-4506-8d7e-ca41257d6d3b.gif)
+
 
 ### Construido com
 
@@ -18,4 +19,4 @@ Voce pode testar este projeto acessando o link [Conversor de Moedas](https://vue
 
 ## Contato
 
-Marcelo Assis - [Linkedin](https://www.linkedin.com/in/marceloapd/) - marcelo.apdassis@gmail.com
+Marcelo Assis - [Curriculo](https://drive.google.com/file/d/13ByPK59ZgGgBwnbT-g8Orfri3dC_2Qa2/view?usp=sharing)
