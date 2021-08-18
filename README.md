@@ -11,7 +11,7 @@ Desenvolvimento de uma calculadora para conversão de moedas para avaliação
 
 ## Começando
 
-Voce pode testar este projeto acessando o link [Conversor de Moedas](https://vuejs.org/)
+Voce pode testar este projeto acessando o link [Conversor de Moedas](https://modest-galileo-2323c5.netlify.app/)
 
 ## Uso
 
