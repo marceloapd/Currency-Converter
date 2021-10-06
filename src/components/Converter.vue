@@ -185,7 +185,7 @@ export default {
 .circle {
   display: flex;
   align-items: center;
-  justify-content: end;
+  justify-content: start;
   width: 31px;
   height: 31px;
   background: #23344d;
